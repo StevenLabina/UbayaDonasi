@@ -1,11 +1,8 @@
 {
-  "listDonation": [
+  "posts": [
     {
       "id": 1,
-      "titleDonation": "Gempa bumi di Bali",
-      "totalTerkumpul": 15000000,
-      "totalTarget": 30000000
-   
+      "title": "hello"
     }
   ],
   "profile": {
