@@ -1,8 +1,15 @@
 {
-  "posts": [
+  "listDonation": [
     {
       "id": 1,
-      "title": "hello"
+      "titleDonation": "Gempa bumi di Bali",
+      "totalTerkumpul": 15000000,
+      "totalTarget": 30000000,
+      "deskripsi": "Gempa bumi mengguncang wilayah Samudera Hindia Selatan Bali pada Senin (10/4/2023) pukul 07.36.20 dan 07.37.29 WIB. 
+                  Hasil analisis Badan Meteorologi, Klimatologi, dan Geofiska (BMKG) menunjukkan gempa bumi ini memiliki parameter update dengan magnitudo M4,9 dan M5,0.
+                  Episenter gempabumi terletak pada koordinat 9,66 LS ; 115,09 BT dan 9,66 LS ; 115,12 BT, atau tepatnya berlokasi di laut pada jarak 86 Km arah Selatan Kota Denpasar, 
+                  Bali pada kedalaman 10 km dan 13 km, kata Kepala Pusat Gempabumi dan Tsunami BMKG Daryono kepada wartawan, Senin (10/4/2023)." ,
+      "image": "https://cdn0-production-images-kly.akamaized.net/FzlNnhpW2ueTGjFKXkRgBVFOO1o=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2854358/original/053279800_1563251973-20190716-Gempa-Bali-Rusak-Bangunan-AP-3.jpg"
     }
   ],
   "profile": {
